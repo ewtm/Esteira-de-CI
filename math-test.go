@@ -2,10 +2,6 @@ package main
 
 import "testing"
 
-func Soma(a int, b int) int {
-	return a + b ;
-}
-
 func TestSoma(t *testing.T){
 
 	total := Soma(15,15)
