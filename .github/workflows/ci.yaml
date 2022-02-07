@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: false
-          tags: ewtm/Esteira-de-CI:latest
+          tags: ewtm/esteira-de-ci:latest
